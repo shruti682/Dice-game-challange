@@ -1,0 +1,31 @@
+body{
+    background-color: #1A1A40;
+    color: white;
+    text-align: center;
+}
+.container h1{
+    font-size: 500%;
+    font-weight: bold;
+    font-family: cursive;
+    display: inline-block;
+}
+
+.giffy{
+    width:12%;
+    position: relative;
+    top: 32px;
+    padding-right: 3%;
+}
+
+h3{
+    font-size: 250%;
+    /* font-family: 'Indie Flower', cursive; */
+}
+h4{
+    font-size: 150%;
+}
+.dice{
+    display: inline-block;
+    padding: 0% 10% 8%;
+    padding-bottom: 2%;
+}
